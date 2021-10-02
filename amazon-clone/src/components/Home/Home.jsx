@@ -22,7 +22,7 @@ export default function Home() {
       <Product
         id="1231235"
         title="PLAYSTATION 5"
-        price={499.95}
+        price={599.95}
         rating={5}
         image="https://c1.neweggimages.com/ProductImage/68-110-294-V01.jpg"
         />
